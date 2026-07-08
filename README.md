@@ -1,4 +1,4 @@
-### Hi, I'm Aditya 👋
+### Hi, I'm Aditya 
 
 I'm a Data Analyst with 2.5+ years at Amazon's Global Solutions and Risk Compliance team, recently completed my MS in Information Systems at Syracuse University's iSchool (GPA 3.89/4.00).
 
@@ -6,7 +6,7 @@ I'm a Data Analyst with 2.5+ years at Amazon's Global Solutions and Risk Complia
 
 ---
 
-#### 🛠️ Tech Stack
+####  Tech Stack
 
 **Languages:** Python · SQL · R · Bash  
 **Data Engineering:** dbt · Snowflake · Apache Kafka · PySpark · Apache Airflow  
@@ -17,9 +17,9 @@ I'm a Data Analyst with 2.5+ years at Amazon's Global Solutions and Risk Complia
 
 ---
 
-#### 🚀 Current Projects
+#### Current Projects
 
-🔄 Polishing and pushing portfolio projects from my MS coursework:
+ Polishing and pushing portfolio projects from my MS coursework:
 
 - **FraudGraph** — Graph-based pattern detection using Neo4j community detection (Louvain), Weakly Connected Components, and PageRank to identify coordinated transaction patterns invisible to row-level analysis
 - **dbt + Snowflake Analytics Lakehouse** — Multi-layer data warehouse with Kimball dimensional modeling, 30+ automated dbt tests, documented data lineage, and medallion-style raw/refined/presentation layering
@@ -28,7 +28,7 @@ I'm a Data Analyst with 2.5+ years at Amazon's Global Solutions and Risk Complia
 
 ---
 
-#### 📫 Connect
+#### Connect
 
 - **LinkedIn:** [linkedin.com/in/adityadkar](https://linkedin.com/in/adityadkar)
 - **Email:** aaadkar@syr.edu
